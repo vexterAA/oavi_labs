@@ -4,3 +4,7 @@
 lab1/.deps/
 lab1/run_lab1.py
 lab2/run_lab2.py
+lab3/run_lab3.py
+lab4/run_lab4.py
+__pycache__/
+*.py[cod]

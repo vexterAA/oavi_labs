@@ -1,0 +1,5 @@
+image,width,height,total_pixels,black_before,black_after,changed_pixels,changed_percent,source_path,input_path,filtered_path,diff_path
+original_00,1877,2314,4343378,448429,383537,73838,1.70,results/original_00/00_source.png,results/original_00/01_binary_input.png,results/original_00/02_variant7_filtered.png,results/original_00/03_xor_difference.png
+original_01,3000,3950,11850000,967612,916636,70230,0.59,results/original_01/00_source.png,results/original_01/01_binary_input.png,results/original_01/02_variant7_filtered.png,results/original_01/03_xor_difference.png
+original_02,1600,1893,3028800,764557,735571,38298,1.26,results/original_02/00_source.png,results/original_02/01_binary_input.png,results/original_02/02_variant7_filtered.png,results/original_02/03_xor_difference.png
+original_03,1512,2016,3048192,282586,276424,8148,0.27,results/original_03/00_source.png,results/original_03/01_binary_input.png,results/original_03/02_variant7_filtered.png,results/original_03/03_xor_difference.png
