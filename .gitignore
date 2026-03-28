@@ -7,5 +7,7 @@ lab2/run_lab2.py
 lab3/run_lab3.py
 lab4/run_lab4.py
 lab5/run_lab5.py
+lab6/run_lab6.py
+lab6/source_symbols/
 __pycache__/
 *.py[cod]

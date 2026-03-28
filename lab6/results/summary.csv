@@ -1,0 +1,12 @@
+index;x_left;y_top;x_right;y_bottom;width;height;black_pixels;image_path
+1;5;2;37;58;33;57;644;results/text_symbols/01_symbol.png
+2;44;2;86;44;43;43;909;results/text_symbols/02_symbol.png
+3;95;2;108;44;14;43;386;results/text_symbols/03_symbol.png
+4;117;2;158;44;42;43;864;results/text_symbols/04_symbol.png
+5;183;2;220;44;38;43;675;results/text_symbols/05_symbol.png
+6;226;2;262;44;37;43;724;results/text_symbols/06_symbol.png
+7;271;2;284;44;14;43;386;results/text_symbols/07_symbol.png
+8;293;2;334;44;42;43;864;results/text_symbols/08_symbol.png
+9;360;2;373;25;14;24;234;results/text_symbols/09_symbol.png
+10;381;2;400;44;20;43;483;results/text_symbols/10_symbol.png
+11;408;2;449;44;42;43;864;results/text_symbols/11_symbol.png
