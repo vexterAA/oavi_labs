@@ -1,0 +1,60 @@
+{
+  "reference_symbols": "+79252181180",
+  "alphabet_size": 11,
+  "recordings": [
+    {
+      "recording": "номер_естественно",
+      "phone_recording": "sounds/номер_естественно.wav",
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "duration_seconds": 5.553,
+      "alphabet_size": 11,
+      "segments_count": 12,
+      "recognized_words": [
+        "плюс",
+        "семь",
+        "девять",
+        "семь",
+        "пять",
+        "два",
+        "семь",
+        "семь",
+        "пять",
+        "семь",
+        "восемь",
+        "ноль"
+      ],
+      "recognized_symbols": "+79752775780",
+      "reference_symbols": "+79252181180",
+      "errors_levenshtein": 5,
+      "mean_confidence": 0.118789
+    },
+    {
+      "recording": "номер_разборчиво",
+      "phone_recording": "sounds/номер_разборчиво.wav",
+      "sample_rate_hz": 48000,
+      "channels": 1,
+      "duration_seconds": 13.153,
+      "alphabet_size": 11,
+      "segments_count": 12,
+      "recognized_words": [
+        "плюс",
+        "семь",
+        "девять",
+        "два",
+        "пять",
+        "два",
+        "один",
+        "восемь",
+        "один",
+        "один",
+        "восемь",
+        "ноль"
+      ],
+      "recognized_symbols": "+79252181180",
+      "reference_symbols": "+79252181180",
+      "errors_levenshtein": 0,
+      "mean_confidence": 0.245783
+    }
+  ]
+}
